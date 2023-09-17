@@ -1,2 +1,2 @@
-# Ejercicio PYTHON 2º Bachiller
+# Ejercicios PYTHON 2º Bachiller
 ## Profesor: Juan Antonio Cuello

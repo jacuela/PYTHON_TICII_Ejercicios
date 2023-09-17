@@ -1,1 +1,2 @@
-# PYTHON_TICII_Ejercicios06
+# Ejercicio PYTHON 2º Bachiller
+## Profesor: Juan Antonio Cuello

@@ -32,6 +32,14 @@ print("Division entera 15//4:")
 division_entera=15//4
 print(division_entera)
 
+#EJEMPLO: Desglosa en euros y centimos los siguientes centimos totales
+centimosTotales=340
+euros=centimosTotales//100
+centimos=centimosTotales%100
+print(centimosTotales,"centimos equivalen a",euros,"€ y",centimos,"centimos.")
+
+
+
 ## El operador + también se puede aplicar a cadenas
 ## + concatena cadenas
 print("- operador + en candenas -")
@@ -62,5 +70,25 @@ print(nombre,apellido)      #fijate como te mete un espacio al usar ,
 print("La suma de x e y es:"+str(suma)) 
 print("La suma de x e y es:",suma) 
 
+
+
+#ojo al intercambiar dos variables
+print("- intercambio con pérdida -")
+x=15
+y=30
+y=x
+x=y
+print(x)
+print(y)
+
+print("- intercambio usando variable auxiliar -")
+unNumero=15          
+otro_numero=30
+
+auxiliar=unNumero
+unNumero=otro_numero
+otro_numero=z
+print(unNumero)
+print(otro_numero)
 
 
